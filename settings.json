@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vserver.mcsh.gg",
-    "port": 25565,
+    "ip": "148.113.0.7",
+    "port": 10527,
     "version": "1.21.1"
   },
   "position": {
